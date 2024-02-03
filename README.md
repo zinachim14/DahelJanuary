@@ -9,5 +9,19 @@ This is a beginner's data analysis class.
 
 
 
-  ## Problem Statement 
+  ## Problem Statement
+  ![](Screenshot_2024-01-29-11-15-09-846_com.android.chrome.jpg)
+
+
+  Automatedmodel             |       Createdmodel   
+  :----------------------:   | :--------------------              
+  ![](pic 5.jpg)             |![](Screenshot_2024-01-29-11-15-09-846_com.android.chrome.jpg)
+
+
+  
+  
+
+
+
+   
       
