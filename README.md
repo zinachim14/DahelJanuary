@@ -15,7 +15,8 @@ This is a beginner's data analysis class.
 
   Automatedmodel             |       Createdmodel   
   :----------------------:   | :--------------------              
-  ![](pic 5.jpg)             |![](Screenshot_2024-01-29-11-15-09-846_com.android.chrome.jpg)
+  ![](Screenshot_2024-01-29-08-52-32-369_com.android.chrome.jpg)
+             |![](Screenshot_2024-01-29-11-15-09-846_com.android.chrome.jpg)
 
 
   
